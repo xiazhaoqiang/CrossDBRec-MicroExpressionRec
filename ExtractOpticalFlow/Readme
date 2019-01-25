@@ -1,3 +1,3 @@
 The main script is "ExtractFlow_crossdb.m".
 
-The optical flow fields are extracted based on the codes (Sun, D.; Roth, S. & Black, M. J. "Secrets of Optical Flow Estimation and Their Principles" IEEE Int. Conf. on Comp. Vision & Pattern Recognition, 2010).
+The optical flow fields are extracted based on the codes (Sun, D.; Roth, S. & Black, M. J. "Secrets of Optical Flow Estimation and Their Principles" IEEE Int. Conf. on Comp. Vision & Pattern Recognition, 2010). The codes are appended in the folder of "thirdparty", which should be uncompressed and put in this folder.
